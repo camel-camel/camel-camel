@@ -48,6 +48,6 @@
 
 ###
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<img align="left" hight="200" src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
